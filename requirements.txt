@@ -1,0 +1,4 @@
+lxml
+rapidfuzz
+requests
+pandas
